@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  Trabajo Final Modulo 1
+//  TrabajoFinalM1
 //
-//  Created by alumno on 2/7/17.
-//  Copyright © 2017 alumno. All rights reserved.
+//  Created by Jorge Luis Limo Arispe on 18/02/17.
+//  Copyright © 2017 Jorge Limo Arispe. All rights reserved.
 //
 
 import UIKit

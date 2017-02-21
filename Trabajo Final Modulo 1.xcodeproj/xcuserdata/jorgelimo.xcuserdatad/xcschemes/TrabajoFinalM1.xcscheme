@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0800"
+   LastUpgradeVersion = "0820"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FB47D7AA1E4AB5ED00E1136B"
-               BuildableName = "Trabajo Final Modulo 1.app"
-               BlueprintName = "Trabajo Final Modulo 1"
-               ReferencedContainer = "container:Trabajo Final Modulo 1.xcodeproj">
+               BlueprintIdentifier = "B575E2F71E58CE090067FC4E"
+               BuildableName = "TrabajoFinalM1.app"
+               BlueprintName = "TrabajoFinalM1"
+               ReferencedContainer = "container:TrabajoFinalM1.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FB47D7AA1E4AB5ED00E1136B"
-            BuildableName = "Trabajo Final Modulo 1.app"
-            BlueprintName = "Trabajo Final Modulo 1"
-            ReferencedContainer = "container:Trabajo Final Modulo 1.xcodeproj">
+            BlueprintIdentifier = "B575E2F71E58CE090067FC4E"
+            BuildableName = "TrabajoFinalM1.app"
+            BlueprintName = "TrabajoFinalM1"
+            ReferencedContainer = "container:TrabajoFinalM1.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FB47D7AA1E4AB5ED00E1136B"
-            BuildableName = "Trabajo Final Modulo 1.app"
-            BlueprintName = "Trabajo Final Modulo 1"
-            ReferencedContainer = "container:Trabajo Final Modulo 1.xcodeproj">
+            BlueprintIdentifier = "B575E2F71E58CE090067FC4E"
+            BuildableName = "TrabajoFinalM1.app"
+            BlueprintName = "TrabajoFinalM1"
+            ReferencedContainer = "container:TrabajoFinalM1.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FB47D7AA1E4AB5ED00E1136B"
-            BuildableName = "Trabajo Final Modulo 1.app"
-            BlueprintName = "Trabajo Final Modulo 1"
-            ReferencedContainer = "container:Trabajo Final Modulo 1.xcodeproj">
+            BlueprintIdentifier = "B575E2F71E58CE090067FC4E"
+            BuildableName = "TrabajoFinalM1.app"
+            BlueprintName = "TrabajoFinalM1"
+            ReferencedContainer = "container:TrabajoFinalM1.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
